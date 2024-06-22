@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-  background-color: green;
-}
 
 :root {
   --foreground-rgb: 0, 0, 0;
